@@ -1,5 +1,5 @@
 const info = {
-    Quotes: "NYARI APA CYUK?",
+    Quotes: "NYARI APA CYUK? TINGGAL PAKE KOCAK",
 };
 
 function checkProject() {
@@ -11,5 +11,4 @@ function checkProject() {
     }
 }
 
-// Jalankan fungsi
 checkProject();
