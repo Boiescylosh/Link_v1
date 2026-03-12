@@ -22,7 +22,5 @@ TESTED ON TERMINAL
 1. Install dulu node.js di browser
 2. node Link_v1.js
 
-### Image Script
-
 ![Preview 1](https://l.top4top.io/p_3672tof3p0.jpg)
 ![Preview 2](https://a.top4top.io/p_3672r7tvb1.jpg)
